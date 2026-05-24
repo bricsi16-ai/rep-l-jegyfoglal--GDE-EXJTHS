@@ -8,4 +8,4 @@ bash ./install.sh
 
 echo
 echo "Program inditasa..."
-python main.py
+python gui.py
