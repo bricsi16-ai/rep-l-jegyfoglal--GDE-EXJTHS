@@ -1,0 +1,9 @@
+[project]
+name = "repulojegy-foglalasi-rendszer"
+version = "1.0.0"
+description = "Egyszeru Python konzolos repulojegy foglalasi rendszer."
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

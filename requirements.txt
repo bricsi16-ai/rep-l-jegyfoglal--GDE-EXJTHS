@@ -1,0 +1,1 @@
+# Nincs külső függőség. Python 3 elegendő.
